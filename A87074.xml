@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A happy deliverance, or, a wonderfull preservation of foure worthy and honourable peeres of this kingdome, and some others. Who should have beene poysoyned at a supper in St. Martins Lane neere Charing-Crosse on Tuesday, the 11. of Ian. 1641. Viz. The Earle of Leicester The Earle of Essex, Lord Chamberlaine. The Earle of Holland. The Earle of Northumberland. With some others. Whereunto is annexed five articles preferred by the Commons in Parliament against Mr. Herbert the Kings atturney generall.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87074</idno>
+            <idno type="STC">Wing H667</idno>
+            <idno type="STC">Thomason E132_16</idno>
+            <idno type="STC">Thomason E132_17</idno>
+            <idno type="STC">ESTC R23070</idno>
+            <idno type="EEBO-CITATION">99871908</idno>
+            <idno type="PROQUEST">99871908</idno>
+            <idno type="VID">156362</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87074)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156362)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[16]-[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A happy deliverance, or, a wonderfull preservation of foure worthy and honourable peeres of this kingdome, and some others. Who should have beene poysoyned at a supper in St. Martins Lane neere Charing-Crosse on Tuesday, the 11. of Ian. 1641. Viz. The Earle of Leicester The Earle of Essex, Lord Chamberlaine. The Earle of Holland. The Earle of Northumberland. With some others. Whereunto is annexed five articles preferred by the Commons in Parliament against Mr. Herbert the Kings atturney generall.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The five articles = Thomason E.132[17].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hampden, John, 1594-1643.</term>
+               <term>Hesilrige, Arthur, --  Sir, d. 1661.</term>
+               <term>Holles, Denzil Holles, --  Baron, 1599-1680.</term>
+               <term>Leicester, Robert Sidney, --  Earl of, 1595-1677.</term>
+               <term>Manchester, Edward Montagu, --  Earl of, 1602-1671.</term>
+               <term>Pym, John, 1584-1643.</term>
+               <term>Strode, William, 1598 or 9-1645.</term>
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156362:1"/>
+            <pb facs="tcp:156362:1" rendition="simple:additions"/>
+            <p>A HAPPY DELIVERANCE, OR, A Wonderfull Preſerva<g ref="char:EOLhyphen"/>tion of foure Worthy and Honourable Peeres of this Kingdome, and ſome others.</p>
+            <p>Who ſhould have beene poyſoyned at a Supper in St. <hi>Martins</hi> Lane neere <hi>Charing-Croſſe,</hi> on <hi>Tueſday,</hi> the 11. of <hi>Ian.</hi> 1641.</p>
+            <p>
+               <hi>Viz.</hi>
+               <list>
+                  <item>The Earle of <hi>Leiceſter</hi>
+                  </item>
+                  <item>The Earle of <hi>Eſſex,</hi> Lord Chamberlaine.</item>
+                  <item>The Earle of <hi>Holland.</hi>
+                  </item>
+                  <item>The Earle of <hi>Northumberland.</hi>
+                  </item>
+                  <item>With ſome others.</item>
+               </list>
+            </p>
+            <p>Whereunto is annexed five Articles pre<g ref="char:EOLhyphen"/>ferred by the COMMONS in PARLIAMENT againſt Mr. <hi>Herbert</hi> the Kings Atturney Generall.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:156362:2"/>
+            <pb facs="tcp:156362:2"/>
+            <head>A True Relation of a treacherous intention, Practiſed by a <hi>French</hi>-man, for the poyſoning of foure Noble Peeres of this Kingdome at the Earle of <hi>Leiceſters</hi> houſe in St. <hi>Martins Lane, Jan.</hi> 11. 1641.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He daily and horrible Plots and Enterpriſes of the Romiſh Faction pra<g ref="char:EOLhyphen"/>ctized againſt this Iſland of <hi>Brittaine,</hi> and the teſt of his Majeſties Domi<g ref="char:EOLhyphen"/>nions, are not vnknowne unto us all, and the bloo<g ref="char:EOLhyphen"/>dy practiſes and miſ<g ref="char:EOLhyphen"/>chiefes invented and plotted by them, have much diſquieted the peace of this Kingdome, and diſtracted the content of King and Subject, had they not beene growne moſt impudent in their attempts, and audaciouſly reſolute to performe their bloody intentions, The many Diſcoveries of their Helliſh practizes and inventions, (with which it hath pleaſed God to bleſſe this Nation) might deterre and affright them from any new proſecution, But they are growne now moſt deſperate, and their corrupt nature cannot forbeare to Act, what is familiar and common to their Religion, which they ſeeke to propogate by
+<pb facs="tcp:156362:3"/>the effuſion of blood, for why ſhould they doubt to put that in execution, which is commended and al<g ref="char:EOLhyphen"/>lowed by their holy Father, in whom they put their confidence, and from whom they expect more then Abſolution from their ſinnes, a bleſſing for their pious undertakings, villany cannot want inſtruments to put it in execution, and wickedneſſe is ſeldome ſtifled in the infancy, by the deficiency or ſcarcity of Nurſes to mature it, and bring it into action, they have laboured often by ſtrong hand and power to ſubvert and capti<g ref="char:EOLhyphen"/>vate this Kingdome, but the hand of Heaven hath given us the upper hand of them, and turned all their plots to their owne confuſion, now of late they haue planted their malice in divers places of this Realme by private agents, endeavouring to effect that by polli<g ref="char:EOLhyphen"/>cie, which they could not attaine and reach too by their Power, amongſt which J ſhall relate one of a moſt dangerous conſequence, but the Lord that pro<g ref="char:EOLhyphen"/>tected them, brought this wicked and horrid reſolu<g ref="char:EOLhyphen"/>tion to light.</p>
+            <p>The Earle of <hi>Leiceſter</hi> having invited foure Hono<g ref="char:EOLhyphen"/>rable Lords and Peeres of this Kingdome, with ſome other great perſonages, to a Supper, which was per<g ref="char:EOLhyphen"/>formed at his houſe in St. <hi>Martins</hi> Lane neere the <hi>Strand</hi> on <hi>Tueſday Ian.</hi> 11. 1641.</p>
+            <p>And being all ſet at Supper, there came in a Helliſh and bloody minded fellow, a <hi>French-man,</hi> (and is con<g ref="char:EOLhyphen"/>ceived) backed unto that wicked intention by ſome of the Popiſh Faction, which may well be conjectured by the Sequell which followeth.</p>
+            <p>This <hi>French-man</hi> being come into place where theſe Noble Peeres did ſup that night, he privately whiſpe<g ref="char:EOLhyphen"/>red
+<pb facs="tcp:156362:3"/>with the Cooke of the Earle of <hi>Leiceſter,</hi> who al<g ref="char:EOLhyphen"/>ſo was a <hi>French-man,</hi> and could not ſpeake a word of <hi>Engliſh,</hi> and told him in his owne Language, that if he would vndertake to poyſon the ſecond courſe that was to be ſet before theſe worthy and Honourable perſo<g ref="char:EOLhyphen"/>nages, he would for his reward and ſecrecy therein, give him 3000 l. in ready Gold; The Cooke per<g ref="char:EOLhyphen"/>ceiving this his wicked and bloody intentions, told him that if it might gaine him 1000 worlds, he would not attempt an Act ſo wicked, and withall told him that his Trecherous deſigns he would immediately diſcover, the which the French-man perceiving (when he ſaw his opportunity) ſtole out of doores, for no man there preſent could underſtand <hi>French,</hi> And this French Cooke vnderſtanding no <hi>Engliſh,</hi> whereby to diſco<g ref="char:EOLhyphen"/>ver this wicked advice, of his Countryman, was the reaſon why he did eſcape, who if he had beene as ava<g ref="char:EOLhyphen"/>ricious of lucre as the other of bloud, they had diſ<g ref="char:EOLhyphen"/>patched out of this world theſe Noble Pillars of our Realme, this was not diſcovered till after Supper, the Cooke meeting one of the Earle of <hi>Leiceſters</hi> Chap<g ref="char:EOLhyphen"/>laines which underſtood <hi>French,</hi> who told him the manner and forme of it as is before related, yet was this <hi>French Cooke</hi> apprehended and ſent for to be exa<g ref="char:EOLhyphen"/>mined before the Lords in Parliament, and as yet not acquitted.</p>
+            <p>Let every chriſtian reader judge what Diabolicall, and unparallel'd intentions are continually practized by the <hi>Papiſts</hi> in <hi>England,</hi> againſt the Pillars of our Church and Commonwealth.</p>
+         </div>
+         <div type="proceedings">
+            <pb facs="tcp:156362:4"/>
+            <head>Five Articles preferred by the Houſe of Commons in PARLIAMENT againſt Mr. <hi>Herbert</hi> the KINGS Atturney Generall.</head>
+            <div type="article">
+               <head>I.</head>
+               <p>WHether he contrived, framed, or adviſed the Articles exhibited in the Houſe of Lords, againſt the Lord <hi>Kimbolton, Mr. Hollis, Sir Arthur Haſlerig, Mr. Pym, Mr. Hampden,</hi> and <hi>Mr. Stroud</hi> or whether he knew or had heard who did contrive, frame or adviſe the ſame. <hi>To which he anſwe<g ref="char:EOLhyphen"/>red,</hi> That he did none of thoſe three, and if he was proved ſo to doe, he <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould be contented to die for it.</p>
+            </div>
+            <div type="article">
+               <head>II.</head>
+               <p>Whether he know the truth of thoſe Articles; <hi>To which he Anſwered,</hi> That he knew nothing but what was ſaid to him by his Maſter the King.</p>
+            </div>
+            <div type="article">
+               <head>III.</head>
+               <p>Whether he will make them good when he ſhall be called thereto, <hi>To which he Anſwered,</hi> he was no way able to make them good farther then his ſaid Maſter ſhould en<g ref="char:EOLhyphen"/>able him.</p>
+            </div>
+            <div type="article">
+               <head>IV.</head>
+               <p>From whom be had received them, or by whoſe advice he did exhibit them, <hi>To which he Anſwered,</hi> That from his Maſters hands he received them, and by his com<g ref="char:EOLhyphen"/>mand did exhibit them.</p>
+            </div>
+            <div type="article">
+               <pb facs="tcp:156362:4"/>
+               <head>V.</head>
+               <p>
+                  <hi>What proofe and teſtimony he had to maintaine thoſe Ar<g ref="char:EOLhyphen"/>ticles,</hi> To which he Anſwered, <hi>That he received the Command from his Maſter, and had no other proofe or teſtimony but ſuch as his Maſter ſhould enable him with. And being preſſed to deale cleerely, what teſtimony that was, He ſaid he was of his Majeſties Councell, and there<g ref="char:EOLhyphen"/>fore deſired further time to conſider what anſwer to make.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>Upon all which it was reſolved upon the Queſtion, that the exhibiting of thoſe Articles in the Lords Houſe againſt Members of the Commons Houſe, was illegall and a high crime. It was likewiſe ordered, that a Meſſage ſhould be ſent to the Lords, to deſire them to joyne with the Houſe of Commons, to move the King, that by Thurſday next his Majeſty will be plea<g ref="char:EOLhyphen"/>ſed to appoint ſuch as have given information againſt the foreſaid Members, may bring in their charge, or elſe they to be freed by ſuch a way as the Parliament ſhall thinke fit.</p>
+               <p>An Order was entred that in regard there was a high breach of the Priviledges of Parliament by Mr. <hi>Herbert</hi> Mr. Attor<g ref="char:EOLhyphen"/>ney in exhibiting the Articles aforeſaid, in the ſealing up their papers and Trunkes, in the demand of the foreſaid Members in the Commons Houſe, and in his Majeſties comming in that manner to the Commons Houſe, that a Meſſage be ſent to the Lords to make a Committee of Lords to meet with a Commit<g ref="char:EOLhyphen"/>tee of the Commons Houſe, to conſider how and in what manner reparation may be made for the breach of Priviled<g ref="char:EOLhyphen"/>ges.</p>
+               <p>Then the Black Rod came to call the Speaker and the Com<g ref="char:EOLhyphen"/>mons Houſe into the Lords Houſe, where the King by Com<g ref="char:EOLhyphen"/>miſſion paſſed the two Acts, 1. For preſſing of Marriners for the ſhips. 2. For the reliefe of the Captives taken by the Py<g ref="char:EOLhyphen"/>rats of <hi>Argiere.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
